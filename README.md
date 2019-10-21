@@ -1,2 +1,2 @@
 # java-stuff
-java programs
+Implementation of Custom Queue,Stack using queue and queue using stack.
